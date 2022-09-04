@@ -17,6 +17,8 @@ Version 1.0.3:
 Version 1.0.4:
 ![image](https://user-images.githubusercontent.com/39479918/188323585-d20d754d-49c9-4c57-acfc-134a0c34bf27.png)
 
+Weil Windows den Zugriff auf C:\Programme und ProgramFiles eingeschränkt hat, werden jetzt die Daten die für die Sofware notwendig sind (wie settings.ini) unter ..\ProgramData\VTools gespeichert.
+
 - 001 - VTools Overview - https://youtu.be/0f-ujH2TgVE
 - 002 - VTools: 2 Funktionen Suche SDB und Suche Ticket - https://youtu.be/QmtQ9B0A2BQ
 
