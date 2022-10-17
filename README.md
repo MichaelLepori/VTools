@@ -29,6 +29,11 @@ Weil Windows den Zugriff auf C:\Programme und ProgramFiles eingeschränkt hat, w
 
 Das Passwort Generator im VTools!
 
+## Version 1.0.6:
+![image](https://user-images.githubusercontent.com/39479918/196228706-20633714-9566-44a7-98fa-8be84444300e.png)
+
+Commandozeile-Befehle in VTools!
+
 ---
 
 [VTools - Playlist auf YouTube](https://www.youtube.com/watch?v=0f-ujH2TgVE&list=PLqPKdH_vlxhasba3a1P2KygGW8DcWLCQ-&ab_channel=MichaelLepori)
