@@ -6,6 +6,17 @@ YouTube Playlist
 https://www.youtube.com/watch?v=0f-ujH2TgVE&list=PLqPKdH_vlxhasba3a1P2KygGW8DcWLCQ-&ab_channel=MichaelLepori
 
 ================================================================================
+ VTools - 1.0.7 - 20231213
+================================================================================
+
+	*   Ab jetzt steht der Mehrwehrsteuer Rechner zur Verfügung.
+	*   Für den myVectron Portal kann auch eine Tastenkombination eingestellt
+	werden (Standard WIN + ALT + P).
+	*   Die Funktion VCom öffnen kann jetzt deaktiviert werden und mit dem
+	Mausklick Links auch das Menü des Programms eingeblendet werden.
+	i   Neue YouTube Vectron Videos wurden unter "Vectron Videos" angelegt
+	
+================================================================================
  VTools - 1.0.6 - 20221017
 ================================================================================
 
