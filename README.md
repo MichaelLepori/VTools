@@ -34,6 +34,12 @@ Das Passwort Generator im VTools!
 
 Commandozeile-Befehle in VTools!
 
+## Version 1.0.7:
+![image](https://github.com/MichaelLepori/VTools/assets/39479918/1dab6c77-7fcd-4a31-b953-30332bfd6fdf)
+
+
+Mehrwehrsteuer Rechner
+
 ---
 
 [VTools - Playlist auf YouTube](https://www.youtube.com/watch?v=0f-ujH2TgVE&list=PLqPKdH_vlxhasba3a1P2KygGW8DcWLCQ-&ab_channel=MichaelLepori)
