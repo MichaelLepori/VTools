@@ -44,7 +44,7 @@ Commandozeile-Befehle in VTools!
 Mehrwertsteuer Rechner
 
 ## Version 1.0.8:
-![image](https://github.com/MichaelLepori/VTools/assets/39479918/7df72e2a-5f7c-4665-a547-27fe013e9f19)
+![image](https://github.com/MichaelLepori/VTools/assets/39479918/8992ca31-1023-44ce-b2bf-5e7aa70961d3)
 
 Suchleiste, um im Internet zu suchen. Die Leiste kann per Mouseklick und Bewegung, positioniert werden.
 Unter den Einstellungen kann man entscheiden, ob diese Suchleiste mit VTools starten soll oder nicht.
@@ -54,6 +54,9 @@ Hier die kleine Leiste:
 
 Hier der Suchverlauf und die Leiste zusammen:
 ![image](https://github.com/MichaelLepori/VTools/assets/39479918/f5da25e4-6033-4f2f-af63-a92eee3c3709)
+
+HINWEIS: Mit Stgr + Alt + U kann man die Leiste öffnen oder wenn sie bereits geöffnet ist, sie aktivieren.
+Dies spart sehr viel Zeit, wenn man häufiger im Internet sucht!
 
 ---
 
