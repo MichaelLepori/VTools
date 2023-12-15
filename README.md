@@ -15,6 +15,9 @@ Es gibt viele Funktion, die eine schnellere Erledigung von Aufgaben ermöglichen
 - Vectron Websites (Jede FHP hat seine Zugangsdaten für die Vectron Serviceseite)
 - Remote Client
 - Password Generator (ab Version 1.0.5)
+- CMD Befehle einfach per Klick ausführen (ab Version 1.0.6)
+- Mehrwertsteuer Rechner (ab Version 1.0.7)
+- Suchleiste (Suche mit Google, ab Version 1.0.8)
 
 ## Version 1.0.3:
 ![image](https://user-images.githubusercontent.com/39479918/167264851-5de1d50f-debd-4854-9b2a-d7be69db30e6.png)
