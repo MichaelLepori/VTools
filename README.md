@@ -58,6 +58,9 @@ Hier der Suchverlauf und die Leiste zusammen:
 HINWEIS: Mit Stgr + Alt + U kann man die Leiste öffnen oder wenn sie bereits geöffnet ist, sie aktivieren.
 Dies spart sehr viel Zeit, wenn man häufiger im Internet sucht!
 
+## Version 1.0.9:
+Es gab Fehlermeldung mit Fenster. Korrigiert.
+Settings.ini war nicht überschreibar. Korrigiert.
 ---
 
 [VTools - Playlist auf YouTube](https://www.youtube.com/watch?v=0f-ujH2TgVE&list=PLqPKdH_vlxhasba3a1P2KygGW8DcWLCQ-&ab_channel=MichaelLepori)
