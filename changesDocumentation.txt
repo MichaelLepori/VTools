@@ -6,16 +6,25 @@ YouTube Playlist
 https://www.youtube.com/watch?v=0f-ujH2TgVE&list=PLqPKdH_vlxhasba3a1P2KygGW8DcWLCQ-&ab_channel=MichaelLepori
 
 ================================================================================
+ VTools - 1.0.10 - 20240109
+================================================================================
+    $$  Es konnte zu der Meldung "Suchfenster ist schon offen" kommen, wenn
+	irgendwelches Search Fenster geöffnet war. Aus diesem Grund habe ich die
+	Fenster in VTools umbennant.
+	
+	Danke an Joachim G. für die Rückmeldung!
+	
+================================================================================
  VTools - 1.0.9 - 20240107
 ================================================================================
     $$  Mit der vorherigen Version gab es ein Bug, dass man das VCom Fenster
-	nicht mehr öffnen konnte. Das Problem dafür, war die Suchleiste. Dies konnte
-	ich korrigieren.
+	nicht mehr öffnen konnte. Das Problem dafür, war die neue Suchleiste. 
+	Diesen Sachverhalt konnte ich korrigieren.
 	
-	$$ Es kamen mehrer Meldungen, dass die Einstellungen nicht geändert werden
-	konnten. Nach mehrere Prüfungen habe ich germerkt, dass es mit dem Ordner
-	C:\ProgramData von Windows zu tun hatte. Aus diesem Grund wird ab dieser
-	Version alles in den Ordner C:\Users\{USERNAME}\AppData\Roaming\VTools
+	$$  Es kamen mehrere Meldungen, dass die Einstellungen nicht geändert werden
+	konnten. Nach diverse Prüfungen habe ich germerkt, dass es mit dem Ordner
+	"C:\ProgramData" von Windows zu tun hatte. Aus diesem Grund wird ab diese
+	Version alles in den Ordner "C:\Users\{USERNAME}\AppData\Roaming\VTools"
 	gespeichert.
 	
 
