@@ -30,7 +30,7 @@ Weil Windows den Zugriff auf C:\Programme und ProgramFiles eingeschränkt hat, w
 ## Version 1.0.5:
 ![image](https://user-images.githubusercontent.com/39479918/190927262-4542d64a-832e-46ad-8a85-40ad5455b10e.png)
 
-Das Passwort Generator im VTools!
+Der Passwort Generator im VTools!
 
 ## Version 1.0.6:
 ![image](https://user-images.githubusercontent.com/39479918/196228706-20633714-9566-44a7-98fa-8be84444300e.png)
@@ -61,6 +61,9 @@ Dies spart sehr viel Zeit, wenn man häufiger im Internet sucht!
 ## Version 1.0.9:
 Es gab Fehlermeldung mit Fenster. Korrigiert.
 Settings.ini war nicht überschreibar. Korrigiert.
+
+## Version 1.0.10:
+Es gab eine Meldung, dass das Suchfenster geöffnet sei, auch wenn es kein Fenster gab. Korrigiert.
 
 ---
 
