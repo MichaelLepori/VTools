@@ -1,4 +1,8 @@
 # VTools
+*** WICHTIGE INFO:
+- Diese Version ist deprecated und wird nicht mehr unterstütz.
+- Eine neue Version ist in Arbeit. Die wird maßgeschneidert herstellt und wird Modulen erhalten, die kostenpflichtig sein werden.
+
 Vectron Tools (programmiert mit Autohotkey v1)
 
 Erfahre mehr über meine Software:
