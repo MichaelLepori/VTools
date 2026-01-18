@@ -1,8 +1,10 @@
 # VTools
 ## WICHTIGE INFO
 ---
-- Diese Version ist deprecated und wird nicht mehr unterstütz.
-- Eine neue Version ist in Arbeit. Die wird maßgeschneidert entwickelt und wird Module erhalten, die kostenpflichtig sein werden.
+- VTools wird nicht mehr weiter entwickelt. Stattdessen stehe ich zur Verfügung für eine personalisierte Programmierung. Diese Version wird maßgeschneidert entwickelt und enthält Module, die kostenpflichtig sind.
+- Hier ein Beispiel mit Funktionalitäten, die ich täglich verwende:
+- <img width="374" height="966" alt="image" src="https://github.com/user-attachments/assets/dcf481e1-0bbe-4dd4-9da8-42121539d09d" />
+
 ---
 ## Vectron Tools (programmiert mit Autohotkey v1)
 
